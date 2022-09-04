@@ -1,3 +1,3 @@
-module com.github/kantefier/go-coinstats
+module github.com/kantefier/go-coinstats
 
 go 1.19
